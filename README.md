@@ -16,9 +16,9 @@ This is my first GitHub repository! I will use it to learn version control, mana
 ## Contact
 Feel free to reach out if you have suggestions or want to collaborate.
 
-- **Name**: [Your Name]
-- **GitHub Profile**: [Your GitHub Profile Link]
-- **Email**: [Your Email Address]
+- **Name**: Dip Patel
+- **GitHub Profile**: https://github.com/Dip8998
+- **Email**: patelldip@gmail.com
 
 ## License
 This repository is currently unlicensed. I might update this in the future.
